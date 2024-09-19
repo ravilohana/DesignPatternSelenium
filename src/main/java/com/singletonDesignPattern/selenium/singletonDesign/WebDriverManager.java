@@ -1,4 +1,4 @@
-package com.selenium.singletonDesign;
+package com.singletonDesignPattern.selenium.singletonDesign;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

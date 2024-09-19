@@ -1,4 +1,4 @@
-package com.yt_naveen;
+package com.singletonDesignPattern.yt_naveen;
 
 
 public class BrowserReflectionSolution {

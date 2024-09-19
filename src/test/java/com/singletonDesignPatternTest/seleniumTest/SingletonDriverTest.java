@@ -1,6 +1,7 @@
-package com.seleniumTest;
+package com.singletonDesignPatternTest.seleniumTest;
 
-import com.selenium.singletonDesign.WebDriverManager;
+
+import com.singletonDesignPattern.selenium.singletonDesign.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
